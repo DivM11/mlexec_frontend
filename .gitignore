@@ -1,0 +1,8 @@
+**/__pycache__
+**/*.xlsx
+**/embeddings
+## local distribution files
+.pypirc
+**/dist/
+**/*.egg-info
+/.tox
